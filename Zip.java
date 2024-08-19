@@ -2,7 +2,7 @@ package task2;
 
 import java.util.Scanner;
 
-public class _2_Zip {
+public class Zip {
     public static void main(String[] args) {
         // String str = "aaabbccccddd";
      compressText();
