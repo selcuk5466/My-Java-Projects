@@ -2,7 +2,7 @@ package task1;
 
 import java.util.Scanner;
 
-public class _1_SifreBelirleme {
+public class SifreBelirleme {
     public static void main(String[] args) {
 
         Scanner oku=new Scanner(System.in);
