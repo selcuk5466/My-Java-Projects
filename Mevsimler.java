@@ -5,7 +5,7 @@ import java.time.MonthDay;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-public class _4_Mevsimler {
+public class Mevsimler {
     public static void main(String[] args) {
         //   Scanner oku=new Scanner(System.in);
         //  Scanner input=new Scanner(System.in);
