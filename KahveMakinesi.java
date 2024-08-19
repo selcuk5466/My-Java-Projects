@@ -2,7 +2,7 @@ package task3;
 
 import java.util.Scanner;
 
-public class _3_KahveMakinesi {
+public class KahveMakinesi {
     public static void main(String[] args) {
 
         String kahvesonuc=kahvetercih();
